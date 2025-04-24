@@ -19,3 +19,9 @@ File `prodigy.json` in the current working directory
   }
 }
 ```
+
+Test that it works:
+
+```bash
+python -m prodigy stats
+```
