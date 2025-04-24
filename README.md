@@ -20,6 +20,12 @@ File `prodigy.json` in the current working directory
 }
 ```
 
+Install database driver:
+
+```bash
+pip install psycopg2 --no-binary
+```
+
 Test that it works:
 
 ```bash
