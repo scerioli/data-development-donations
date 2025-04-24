@@ -3,6 +3,8 @@ Donations for data development workshop
 
 ## Prodigy database
 
+File `prodigy.json` in the current working directory
+
 ```json
 {
   "db": "postgresql",
