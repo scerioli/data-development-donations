@@ -1,5 +1,14 @@
 # data-development-donations
-Donations for data development workshop
+A space for developing data for Feminist AI LAN Partys
+
+## LLMs
+
+Text-generation and notebooks for text generation.
+
+## Diffusion
+
+Image and diffustion model outputs/data and notebooks/ideas.
+
 
 ## Prodigy database
 
